@@ -1,0 +1,54 @@
+# > cocomanga
+2, DOMAIN-SUFFIX,cocomanga.com
+2, DOMAIN,cocomanga.com
+2, DOMAIN-SUFFIX,colamanhua.com
+2, DOMAIN,colamanhua.com
+2, DOMAIN-SUFFIX,colamanga.com
+2, DOMAIN,colamanga.com
+2, DOMAIN-SUFFIX,acloudmerge.com
+
+# > 动漫花园
+2, DOMAIN-SUFFIX,u2.dmhy.org
+2, DOMAIN-SUFFIX,dmhy.org
+2, IP-CIDR,8.210.170.1/24,no-resolve
+
+# > manhuagui
+2, DOMAIN-SUFFIX,amreus.com
+2, DOMAIN-SUFFIX,anhuagui.com
+2, DOMAIN-SUFFIX,hamreus.com
+2, DOMAIN-SUFFIX,manhuagui.com
+2, DOMAIN-SUFFIX,xiaomingtaiji.net
+
+# > manga2020
+2, DOMAIN-SUFFIX,manga2020.com  
+
+# > xmanhua
+2, DOMAIN-SUFFIX,xmanhua.com 
+
+# > copymanga 
+2, DOMAIN-SUFFIX,r3.o.lencr.org
+2, DOMAIN-SUFFIX,rsc.cdn77.org
+2, DOMAIN-SUFFIX,copymanga.site
+2, DOMAIN-SUFFIX,mangafuna.xyz
+2, DOMAIN-SUFFIX,relamanhua.com 
+
+# > 117漫画
+2, DOMAIN-SUFFIX,177pic.info
+2, DOMAIN-SUFFIX,diligencejusticeimprobable.com
+
+# > anime
+2, DOMAIN-SUFFIX,anime1.me 
+2, DOMAIN-SUFFIX,anicdn.com
+2, DOMAIN-SUFFIX,lolicdn.net
+2, DOMAIN-SUFFIX,v.network
+2, DOMAIN-SUFFIX,bitapi.vip
+
+# > xgcartoon
+2, DOMAIN-SUFFIX,xgcartoon.com
+2, DOMAIN-SUFFIX,vzcdn.net
+2, DOMAIN-SUFFIX,bzcdn.net
+2, DOMAIN-SUFFIX,b-cdn.net
+2, DOMAIN-SUFFIX,cnxgct.com
+2, DOMAIN-SUFFIX,lincartoon.com
+2, DOMAIN-SUFFIX,immersivetranslate.com
+2, DOMAIN-SUFFIX,ouxyi.cash
