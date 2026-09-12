@@ -1,6 +1,5 @@
 name = Cartoon
 routing = 1
-
 2, DOMAIN-SUFFIX,hipmh.com
 2, DOMAIN-SUFFIX,hipmh.top
 
